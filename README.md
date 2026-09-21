@@ -1,6 +1,6 @@
 #  About Me:
 *  Passionate about Systems Programming & low-level architectures<br>
-*  Interested in _Rust_, _WebGPU_ <br>
+*  Interested in _Rust_, _WebGPU_, _Nix_, _Redox_ <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7A12E&width=435&lines=Linux+Supremacy+%3A%29)](https://git.io/typing-svg)
 
